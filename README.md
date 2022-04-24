@@ -51,6 +51,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/c
 
 ### Analyzing the Bundle Size
 
+
+https://62657903dcafd9439b68c424--clever-cheesecake-2a42f9.netlify.app/
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
 ### Making a Progressive Web App
