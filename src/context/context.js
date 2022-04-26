@@ -22,7 +22,9 @@ export default function ContactState({ children}) {
 
   const retriveContacts = async () => {
     const response = await api.get("/contacts")
+    console.log(response.data[0].id)
     return response.data
+    
   }
 
 
