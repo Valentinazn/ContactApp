@@ -1,6 +1,6 @@
 import React, {useContext} from "react";
 import { Link, useParams } from "react-router-dom";
-import user from '../../images/user.jpg'
+import user from '../../images/user.svg'
 import ContactContext from "../../context/state";
 
 export default function ContactDetails(){
