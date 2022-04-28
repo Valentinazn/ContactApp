@@ -32,8 +32,7 @@ body{
 }
 
 .ui.fixed.menu{
-  background: transparent;
-  
+  background: beige; 
 }
 
 .ui.container.space-between{
