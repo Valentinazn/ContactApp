@@ -3,14 +3,38 @@
     {
       "name": "Maria",
       "email": "maria@gmail.com",
-      "phone": "333 444 555",
+      "phone": "333444555",
       "id": "5d44f9a3-2b3b-4705-bcdf-72538ecc2064"
     },
     {
       "id": "a91223ad-7ce4-4535-8dca-a08a604382bc",
       "name": "Mario",
       "email": "mario@gmail.com",
-      "phone": "344 566 777"
+      "phone": "344566777"
+    },
+    {
+      "id": "fdcba16b-0161-45eb-9f65-a18032a769f1",
+      "name": "Luigi",
+      "email": "luigi@gmail.com",
+      "phone": "444666899"
+    },
+    {
+      "id": "ebb8df0e-666a-43f7-866b-dab7c79bcaa0",
+      "name": "Fabiana",
+      "email": "fabiana@gmail.com",
+      "phone": "55588901"
+    },
+    {
+      "id": "e236dcab-1a67-4670-b8e5-ee127820abd9",
+      "name": "Paolo",
+      "email": "paolo@gmail.com",
+      "phone": "67129005"
+    },
+    {
+      "id": "66c8da60-7f9b-4329-a6f8-de7e7c323cdd",
+      "name": "Sara",
+      "email": "sara@gmail.com",
+      "phone": "23416789"
     }
     
   ]
